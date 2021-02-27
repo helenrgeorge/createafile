@@ -1,5 +1,5 @@
 # createafile
-Creates a file or writes to an existing file
+# Creates a file or writes to an existing file
 
 import os #import the OS library
 
